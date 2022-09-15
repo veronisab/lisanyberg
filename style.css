@@ -1,0 +1,19 @@
+body {
+    background-color: #dca85c;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Helvetica;
+}
+
+
+h1 {
+    font-size: 10rem;
+}
+
+main {
+    max-width: 100%;
+
+}
